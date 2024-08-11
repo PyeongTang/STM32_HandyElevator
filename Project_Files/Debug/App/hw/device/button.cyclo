@@ -1,0 +1,2 @@
+../App/hw/device/button.c:13:6:BUTTON_init	1
+../App/hw/device/button.c:32:6:BUTTON_getState	2

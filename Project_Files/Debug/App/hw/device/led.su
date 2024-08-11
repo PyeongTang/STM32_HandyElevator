@@ -1,0 +1,14 @@
+../App/hw/device/led.c:13:6:LED_init	4	static
+../App/hw/device/led.c:71:6:LED_on	24	static
+../App/hw/device/led.c:78:6:LED_off	24	static
+../App/hw/device/led.c:84:6:LED_rightShift	16	static
+../App/hw/device/led.c:99:6:LED_leftShift	16	static
+../App/hw/device/led.c:109:6:LED_allOn	16	static
+../App/hw/device/led.c:115:6:LED_allOff	16	static
+../App/hw/device/led.c:121:6:LED_toggle	16	static
+../App/hw/device/led.c:126:6:LED_leftSlideOn	24	static
+../App/hw/device/led.c:134:6:LED_rightSlideOn	24	static
+../App/hw/device/led.c:141:6:LED_leftSlideOff	24	static
+../App/hw/device/led.c:149:6:LED_leftShiftOn	24	static
+../App/hw/device/led.c:165:6:LED_rightShiftOn	24	static
+../App/hw/device/led.c:181:6:LED_flower	8	static

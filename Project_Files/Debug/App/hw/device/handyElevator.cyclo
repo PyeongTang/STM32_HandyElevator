@@ -1,0 +1,6 @@
+../App/hw/device/handyElevator.c:17:6:HE_init	1
+../App/hw/device/handyElevator.c:28:6:HE_ledControl	1
+../App/hw/device/handyElevator.c:35:6:HE_enqueue	1
+../App/hw/device/handyElevator.c:39:6:HE_dequeue	1
+../App/hw/device/handyElevator.c:43:6:HE_searchNearestFloor	6
+../App/hw/device/handyElevator.c:65:6:HE_run	3

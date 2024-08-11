@@ -1,0 +1,6 @@
+../App/hw/device/stepMotor.c:14:6:STEP_init	1
+../App/hw/device/stepMotor.c:25:6:STEP_setStep	1
+../App/hw/device/stepMotor.c:33:6:STEP_unitStepCW	2
+../App/hw/device/stepMotor.c:44:6:STEP_unitStepCCW	2
+../App/hw/device/stepMotor.c:55:6:STEP_rotateStep	4
+../App/hw/device/stepMotor.c:69:6:STEP_setAngle	1

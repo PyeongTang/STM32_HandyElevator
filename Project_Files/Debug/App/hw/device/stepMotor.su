@@ -1,0 +1,6 @@
+../App/hw/device/stepMotor.c:14:6:STEP_init	4	static
+../App/hw/device/stepMotor.c:25:6:STEP_setStep	16	static
+../App/hw/device/stepMotor.c:33:6:STEP_unitStepCW	8	static
+../App/hw/device/stepMotor.c:44:6:STEP_unitStepCCW	8	static
+../App/hw/device/stepMotor.c:55:6:STEP_rotateStep	24	static
+../App/hw/device/stepMotor.c:69:6:STEP_setAngle	24	static

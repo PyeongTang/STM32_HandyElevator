@@ -1,0 +1,17 @@
+../App/hw/device/fnd.c:13:6:FND_init	1
+../App/hw/device/fnd.c:71:6:FND_setMiddleBar	1
+../App/hw/device/fnd.c:82:6:FND_setUnderBar	1
+../App/hw/device/fnd.c:93:6:FND_setDecimal	12
+../App/hw/device/fnd.c:111:6:FND_incDigit	2
+../App/hw/device/fnd.c:117:6:FND_decDigit	2
+../App/hw/device/fnd.c:123:6:FND_off	1
+../App/hw/device/fnd.c:134:6:FND_setFND_0	1
+../App/hw/device/fnd.c:145:6:FND_setFND_1	1
+../App/hw/device/fnd.c:156:6:FND_setFND_2	1
+../App/hw/device/fnd.c:167:6:FND_setFND_3	1
+../App/hw/device/fnd.c:178:6:FND_setFND_4	1
+../App/hw/device/fnd.c:189:6:FND_setFND_5	1
+../App/hw/device/fnd.c:200:6:FND_setFND_6	1
+../App/hw/device/fnd.c:211:6:FND_setFND_7	1
+../App/hw/device/fnd.c:222:6:FND_setFND_8	1
+../App/hw/device/fnd.c:233:6:FND_setFND_9	1
